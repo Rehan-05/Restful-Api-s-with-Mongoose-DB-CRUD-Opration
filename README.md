@@ -1,4 +1,4 @@
-# Restful-Api-s-with-Mongoose-DB-CRUD-Opration
+# Restful-Api-s-with-Mongoose-DB-CRUD-Operation
 
 What will you get in this Repo?
 
